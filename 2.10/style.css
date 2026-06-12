@@ -1,17 +1,28 @@
-/* Não Altere o CSS Inicial, Apenas Adicione o Seu CSS. */
+/* Não altere o CSS inicial */
 
 .box {
-    background-color: blue;
-    padding: 10px;
-  }
-  
-  p {
-    color: yellow;
-    margin: 0;
-    padding: 0;
-  }
-.white-text{
-    border: purple;
-    box-sizing: 10px;
-    margin: 10px;
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+/* Adicione seu CSS abaixo */
+
+/* Caixa externa */
+#outer-box {
+  background-color: purple;
+}
+
+/* Caixas internas */
+.inner-box {
+  background-color: red;
+}
+
+.white-text {
+  color: white;
 }

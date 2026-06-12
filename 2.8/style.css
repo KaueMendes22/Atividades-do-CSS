@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400&display=swap');
 
@@ -23,3 +24,26 @@ h1 {
   font-weight: 400;
   text-transform: uppercase;
 }
+=======
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .poster {
+    width: 50%;
+    margin: 50px auto;
+  }
+  
+  img {
+    width: 100%;
+    border: 5px solid white;
+  }
+  
+  h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+>>>>>>> a7cd1e3ac0968993e750141083316276685e2584
